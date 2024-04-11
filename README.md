@@ -17,5 +17,14 @@ To use this repository you may,
    ```sh
    $ git clone https://github.com/your-username/Megat-tokenizer.git
 
-2. 
+2. Install dependencies
+   ```sh
+   $ pip install regex tiktoken
+3. Train the tokenizer
+   ```sh
+   from maercbpe import RegexTokenizer
+
+   tokenizer = RegexTokenizer()
+   tokenizer.train(very_long_training_string, vocab_size=32768)
+
 
