@@ -9,3 +9,13 @@ Welcome to Megat-tokenizer v0.1! This tokenizer is specifically designed for tok
 3. **Easy Testing:** Users can test the code using pytest. Simply ensure they have pytest installed (`pip install pytest`) and run the following command:
    ```sh
    $ pytest -v .
+
+
+## Usage
+
+To use this repository you may,
+1. Clone the repository via CLI command below:
+   '''
+   $ git clone https://github.com/your-username/Megat-tokenizer.git
+   '''
+
