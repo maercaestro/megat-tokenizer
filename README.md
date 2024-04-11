@@ -10,7 +10,6 @@ Welcome to Megat-tokenizer v0.1! This tokenizer is specifically designed for tok
    ```sh
    $ pytest -v .
 
-
 ## Usage
 
 To use this repository you may,
