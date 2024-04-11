@@ -1,5 +1,7 @@
 # Megat-tokenizer v0.1
 
+![MEGAT Logo](MEGATLogo.png)
+
 Welcome to Megat-tokenizer v0.1! This tokenizer is specifically designed for tokenizing literature works written by Megat. The goal is to build a custom Language Model (LLM) that can generate new works based on Megat's own dataset. This tokenizer serves as the first step towards achieving that goal.
 
 ## Features
