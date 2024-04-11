@@ -7,14 +7,15 @@ Welcome to Megat-tokenizer v0.1! This tokenizer is specifically designed for tok
 1. **Custom Tokenization:** Tokenizer tailored to my literature works.
 2. **Fast Training:** Able to train the tokenization model on my works in around 3-4 minutes on a MacBook M1
 3. **Easy Testing:** Users can test the code using pytest. Simply ensure they have pytest installed (`pip install pytest`) and run the following command:
-   ```sh $ pytest -v .
+   ```sh
+   $ pytest -v .
 
 
 ## Usage
 
 To use this repository you may,
 1. Clone the repository via CLI command below:
-   '''sh
+   ```sh
    $ git clone https://github.com/your-username/Megat-tokenizer.git
 
 2. 
