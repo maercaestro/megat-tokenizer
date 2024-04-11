@@ -4,8 +4,8 @@ Welcome to Megat-tokenizer v0.1! This tokenizer is specifically designed for tok
 
 ## Features
 
-1. **Custom Tokenization:** Tokenizer tailored to Megat's literature works.
-2. **Fast Training:** Able to train the tokenization model on Megat's works in around 3-4 minutes on a MacBook.
+1. **Custom Tokenization:** Tokenizer tailored to my literature works.
+2. **Fast Training:** Able to train the tokenization model on my works in around 3-4 minutes on a MacBook M1
 3. **Easy Testing:** Users can test the code using pytest. Simply ensure they have pytest installed (`pip install pytest`) and run the following command:
    ```sh
    $ pytest -v .
